@@ -3,13 +3,11 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "sites": [
     {
-        "key": "csp_DouDou",
+        "key": "豆瓣",
         "name": "🍥豆瓣热播",
         "type": 3,
-        "api": "csp_DouDou",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
+        "api": "csp_Douban",
+        "searchable": 0,
 	"jar": "./lib/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
     },
 //    {
