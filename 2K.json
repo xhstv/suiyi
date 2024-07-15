@@ -4,12 +4,13 @@
   "sites": [
     {
         "key": "csp_DouDou",
-        "name": "🍥豆瓣首页",
+        "name": "🍥豆瓣热播",
         "type": 3,
         "api": "csp_DouDou",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
+	"ext":"./lib/douban.json"
     },
 //    {
 //      "key": "csp_KungFu404",
